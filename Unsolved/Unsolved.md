@@ -1,32 +1,6 @@
-# MYSQL-SQL-More
-Exploring "sakila" database using SQL queries using DML commands that involve various clauses, functions, sub queries & joins.
+# Unit 10 Assignment - SQL
 
-Sakila database has below tables:
-'actor'
-'actor_info'
-'address'
-'category'
-'city'
-'country'
-'customer'
-'customer_list'
-'film'
-'film_actor'
-'film_category'
-'film_list'
-'film_text'
-'inventory'
-'language'
-'nicer_but_slower_film_list'
-'payment'
-'rental'
-'sales_by_film_category'
-'sales_by_store'
-'staff'
-'staff_list'
-'store'
-
-### Queries are created to respond below requirements:
+### Create these queries to develop greater fluency in SQL, an important database language.
 
 * 1a. You need a list of all the actors who have Display the first and last names of all actors from the table `actor`. 
 
