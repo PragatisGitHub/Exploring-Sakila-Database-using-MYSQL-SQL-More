@@ -1,5 +1,5 @@
 # MYSQL-SQL-More
-Exploring "sakila" database using SQL queries using DML commands that involve various clauses, functions, sub queries & joins.
+Exploring "sakila" database using SQL queries and the DML commands that involve various clauses, functions, sub queries & joins.
 
 Sakila database has the following tables:
 	'actor'
@@ -360,7 +360,7 @@ SELECT * FROM Top_5_Genres_by_Gross
 DROP VIEW IF EXISTS Top_5_Genres_by_Gross
 ;
 
-#*Appendix: List of Tables in the Sakila DB
+### Appendix: List of Tables in the Sakila DB
 
 * A schema is also available as `sakila_schema.svg`. Open it with a browser to view.
 
